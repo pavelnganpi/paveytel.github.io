@@ -1,0 +1,40 @@
+.image{
+
+  margin-top: 5%;
+  margin-bottom: 0.5%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+
+}
+
+.project{
+  margin-bottom: 3%;
+  text-decoration-color: #0086B3;
+  color: #0086B3;
+}
+.project:hover{
+  color: #a6baff;
+}
+
+div h4{ color: #3399FF; }
+div h4:hover{
+  color: #a6baff;
+}
+
+div h2{
+  color: #3399FF;
+}
+div h2:hover{
+  color: #a6baff;
+}
+
+p a:hover{
+
+  color: #ba68c8;
+
+}
+
+.para_color{
+  color: #b3e5fc;
+}
