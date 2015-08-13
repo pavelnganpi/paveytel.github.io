@@ -1,2 +1,2 @@
 # paveytel.github.io
-Person Website
+Personal Website
