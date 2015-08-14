@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d607d5f-f204-42da-af2b-208aba4f7aaa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pavey_resume.pdf" afterPath="$PROJECT_DIR$/pavey_resume.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first.css" afterPath="$PROJECT_DIR$/first.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="paveytel.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="first.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="first.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/first.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.8">
-              <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.47142857">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33621934">
-              <caret line="70" column="131" selection-start-line="70" selection-start-column="131" selection-end-line="70" selection-end-column="131" />
+            <state vertical-scroll-proportion="-3.59375">
+              <caret line="67" column="195" selection-start-line="67" selection-start-column="195" selection-end-line="67" selection-end-column="195" />
               <folding />
             </state>
           </provider>
@@ -208,18 +207,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/first.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.8">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+        <state vertical-scroll-proportion="-3.59375">
+          <caret line="67" column="195" selection-start-line="67" selection-start-column="195" selection-end-line="67" selection-end-column="195" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/first.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33621934">
-          <caret line="70" column="131" selection-start-line="70" selection-start-column="131" selection-end-line="70" selection-end-column="131" />
+        <state vertical-scroll-proportion="0.47142857">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding />
         </state>
       </provider>
