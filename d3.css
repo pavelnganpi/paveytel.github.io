@@ -1,0 +1,38 @@
+.axis path, .axis line
+{
+    fill: none;
+    stroke: #777;
+    shape-rendering: crispEdges;
+}
+
+.axis text
+{
+    font-family: 'Arial';
+    font-size: 13px;
+}
+.tick
+{
+    stroke-dasharray: 1, 2;
+}
+.bar {
+    fill: orange;
+}
+.bar:hover {
+    fill: orangered ;
+}
+
+.svg{
+    width: 900px ;
+    margin-top: 90px;
+    margin-left: 200px;
+}
+
+#searchBox {
+    margin-left: 350px;
+    margin-top: 20px;
+    width: 500px;
+}
+
+.submitButton {
+    text-align:center
+}
